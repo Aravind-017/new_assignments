@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968298815034",
+    "project_id": "assigment-5930b",
+    "storage_bucket": "assigment-5930b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968298815034:android:44d53fba9f9df844d61f03",
+        "android_client_info": {
+          "package_name": "com.example.new_assignments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3FERuvesulaQ1NQP3mRHXyposqwn980"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
